@@ -10,8 +10,8 @@ I am Ibrahim Somauroo, some random dude on the internet
 [![My Skills](https://skillicons.dev/icons?i=python,go&theme=dark)](https://skillicons.dev)
 
 ### Using:
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,obsidian,github,linux,arch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,git,obsidian,github,postgres,linux,arch&theme=dark)](https://skillicons.dev)
 (I use arch btw)
 
 ### I also have a bit of experience in:
-[![My Skills](https://skillicons.dev/icons?i=arduino,postgres,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
