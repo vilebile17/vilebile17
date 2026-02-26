@@ -7,11 +7,11 @@ I am Ibrahim Somauroo, some random dude on the internet
 </p>
 
 ### I can code in:
-[![My Skills](https://skillicons.dev/icons?i=python,go&theme=dark)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=python,go&theme=dark)](https://skillicons.dev)
 
 ### Using:
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,obsidian,github,postgres,linux,arch&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=neovim,git,obsidian,github,postgres,linux,arch&theme=dark)](https://skillicons.dev)
 (I use arch btw)
 
 ### I also have a bit of experience in:
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
+[![Things that I know a little bit about](https://skillicons.dev/icons?i=arduino,c,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
