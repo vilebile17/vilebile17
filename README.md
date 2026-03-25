@@ -14,4 +14,4 @@ I am Ibrahim Somauroo, some random dude on the internet
 (I use arch btw)
 
 ### I also have a bit of experience in:
-[![Things that I know a little bit about](https://skillicons.dev/icons?i=arduino,c,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
+[![Things that I know a little bit about](https://skillicons.dev/icons?i=arduino,c,cpp,bots,mint,vim,sqlite&theme=dark)](https://skillicons.dev)
