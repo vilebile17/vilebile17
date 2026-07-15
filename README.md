@@ -1,4 +1,4 @@
-## Hello there! 👏
+## Hello there! 👋
 
 I'm **Ibrahim Somauroo** a backend developer who uses [Arch](https://archlinux.org) btw
 
